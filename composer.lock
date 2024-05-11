@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8733cc5c2a607e8391b8a821bce0cbcb",
+    "content-hash": "413b93bc1f69f274f1f8188f1c9ba3d7",
     "packages": [
         {
             "name": "brick/math",
@@ -1063,17 +1063,17 @@
             "time": "2024-03-27T09:17:17+00:00"
         },
         {
-            "name": "imdhemy/google-play-billing",
-            "version": "1.5.2",
+            "name": "kashi326/google-play-billing",
+            "version": "1.5",
             "source": {
                 "type": "git",
-                "url": "https://github.com/imdhemy/google-play-billing.git",
-                "reference": "7f2b032354568fa50858e0f6dd25592d975b3979"
+                "url": "https://github.com/kashi326/google-play-billing.git",
+                "reference": "eed1755f971c56f8fda80442f479a7ff9370a80e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imdhemy/google-play-billing/zipball/7f2b032354568fa50858e0f6dd25592d975b3979",
-                "reference": "7f2b032354568fa50858e0f6dd25592d975b3979",
+                "url": "https://api.github.com/repos/kashi326/google-play-billing/zipball/eed1755f971c56f8fda80442f479a7ff9370a80e",
+                "reference": "eed1755f971c56f8fda80442f479a7ff9370a80e",
                 "shasum": ""
             },
             "require": {
@@ -1108,10 +1108,9 @@
             ],
             "description": "Google Play Billing",
             "support": {
-                "issues": "https://github.com/imdhemy/google-play-billing/issues",
-                "source": "https://github.com/imdhemy/google-play-billing/tree/1.5.2"
+                "source": "https://github.com/kashi326/google-play-billing/tree/1.5"
             },
-            "time": "2024-03-19T17:56:34+00:00"
+            "time": "2024-05-11T14:00:35+00:00"
         },
         {
             "name": "laravel/framework",
